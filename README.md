@@ -3,7 +3,7 @@
 Modern, responsive portfolio website showcasing my skills and projects as a CSE student specializing in frontend development.
 
 ## 🔗 Live Demo
-[View Portfolio](#) <!-- https://dardmaan-singh.vercel.app/ -->
+[View Portfolio](#)  https://dardmaan-singh.vercel.app/ 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)
